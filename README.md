@@ -4,7 +4,7 @@ Se você trabalha como um profissional Cloud, DevOps, Full-Stack ou similares me
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:jnc.vip@gmail.com)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcendrette/)
 
-### * Tecnologias que utilizo nos projetos.
+### Tecnologias que utilizo nos projetos.
 <div style="display:inline_block"><br/>
     <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
     <img align="center" alt="vscode" src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
