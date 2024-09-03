@@ -1,4 +1,4 @@
-### Prazer! Eu sou o José Cendrette👋
+### 👋 Olá! Eu sou o José
 
 Apaixonado por tecnologias inovadoras que automatizam processos e geram economia e valor para empresas.
 
