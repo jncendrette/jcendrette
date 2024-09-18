@@ -49,6 +49,8 @@ Estou participando do programa **Santander Coders 2024 | DevOps** pela escola [A
 #### Programação e Scripting
 - **Linux Shell Scripting**
 - **Python**
+- **Java**
+- **JavaScript**
 - **Golang**
 
 #### Cloud e CI/CD
@@ -57,3 +59,4 @@ Estou participando do programa **Santander Coders 2024 | DevOps** pela escola [A
 - **CI/CD**
 - **Git e GitHub Actions**
 - **GitOps**
+- **Jenkins**
