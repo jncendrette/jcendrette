@@ -20,7 +20,7 @@ Apaixonado por tecnologias inovadoras que automatizam processos e geram economia
     <img align="center" alt="aws" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </div><br/>
 
-### 🚀 Propósito Profissional
+### 🚀 Meta Profissional
 Busco evolução na carreira DevOps Cloud participando do programa **Santander Coders 2024 | DevOps Cloud** pela escola [Ada Tech](https://www.linkedin.com/school/adatechbr/posts/?feedView=all) e Fundamentos em Cloud AWS pela [Escola da Nuvem](https://www.linkedin.com/school/escola-da-nuvem/posts/?feedView=all), estou expandindo meus conhecimentos através das principais tecnologias atuals com projetos desafiadores e muito networking.
 
 🚀 Platform Engineer <br>
