@@ -1,10 +1,18 @@
-# 👋 Olá! Eu sou José
+### 👋 Olá! Eu sou José Cendrette, profissional de tecnologia!
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcendrette/)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=jncendrette&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=jncendrette&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jncendrette&show_icons=true" />
+</picture>
 
-Apaixonado por tecnologias inovadoras que automatizam processos e geram economia e valor para empresas.
 
-### Tecnologias que utilizo em projetos.
 <div style="display:inline_block"><br/>
     <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
     <img align="center" alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -18,7 +26,8 @@ Apaixonado por tecnologias inovadoras que automatizam processos e geram economia
 </div><br/>
 
 ### 🚀 Objetivo Profissional
-Compartilho abaixo meu objetivo profissional seguindo um Roadmap de Carreira para conquistar e continuar crescendo em tecnologia que agregam valor ao negócio.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcendrette/)<br>
+Compartilho abaixo meu objetivo profissional seguindo um Roadmap de Carreira para conquistar e continuar crescendo em tecnologias inovadoras.
 
 🎯 IA Engineer 🚀<br>
 ❄️ Platform Engineer 2030<br>
