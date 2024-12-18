@@ -31,6 +31,7 @@ Minha busca é constante em conhecimento técnico e comportamental para oferecer
 
 ----
 ### 📚 Cursos
+AWS Solutions Architect Associate - ExamePro | Estudando...<br>
 Santander Coders 2024 | Trilha DevOps [Ada Tech](https://ada.tech/)<br>
 Programa AWS re/Start | [Escola da Nuvem](https://escoladanuvem.org/)<br>
 Oracle Cloud Infrastructure Foundations [Oracle University](https://mylearn.oracle.com/ou/home)
