@@ -22,13 +22,7 @@ Minha busca é constante em conhecimento técnico e comportamental para oferecer
 🔥 DevOps Analyst 2024<br>
 
 ----
-### 📚 Cursos
-Santander Coders 2024 | Trilha DevOps [Ada Tech](https://ada.tech/)<br>
-Programa AWS re/Start | [Escola da Nuvem](https://escoladanuvem.org/)<br>
-Oracle Cloud Infrastructure Foundations [Oracle University](https://mylearn.oracle.com/ou/home)
-
-----
-### 🎉 Badges
+### 🎉 Certificações
 <div style="display:inline_block"><br/>
     <img align="center" alt="aws_restart" src="https://images.credly.com/size/680x680/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" width="70" height="70"/>
     <img align="center" alt="CCP" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="60" height="60"/>
@@ -41,13 +35,13 @@ Santander Coders 2024 | Trilha DevOps [Ada Tech](https://ada.tech/)<br>
 Programa AWS re/Start | [Escola da Nuvem](https://escoladanuvem.org/)<br>
 Oracle Cloud Infrastructure Foundations [Oracle University](https://mylearn.oracle.com/ou/home)
 
-
+----
 ### 💼 Experiência Profissional
 ☑️ Analista de TI - 2019<br>
 ☑️ Analista de Suporte - 2016<br>
 <img align="center" alt="checklist" src="https://img.icons8.com/?size=18&id=63675&format=png"/> Técnico de Suporte - 2007
 
-
+----
 ### 🎓 Formação Acadêmica
 **Graduação:** - Sistemas de Informação<br>
 **Faculdade:** UMC - Universidade Mogi das Cruzes<br>
