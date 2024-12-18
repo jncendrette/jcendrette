@@ -1,12 +1,11 @@
 ### José Cendrette
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcendrette/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@jonny_41747/)
-[![Medium](https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jcendrette)
+
 ---
 
 Apaixonado por tecnologias inovadoras com mais de 10 anos de experiência em infraestrutura, suporte a redes, Sysadmin Linux em empresas públicas, privadas e consultorias de TI. 
 
-Minha busca é constante em conhecimento técnico e comportamental para oferecer soluções em migração de infraestruturas e aplicações ambientes em cloud, utilizando das melhores práticas em arquiteturas sustentáveis e econômicas para garantir escalabilidade, segurança e eficiência nos negócios.
+Minha busca é constante em conhecimento técnico e comportamental para oferecer soluções em migração de infraestruturas e aplicações para cloud, utilizando-se das melhores práticas em arquiteturas sustentáveis e econômicas para garantir escalabilidade, segurança e eficiência nos negócios.
 
 ----
 
@@ -34,9 +33,11 @@ Programa AWS re/Start | [Escola da Nuvem](https://escoladanuvem.org/)<br>
 Oracle Cloud Infrastructure Foundations [Oracle University](https://mylearn.oracle.com/ou/home)
 
 ### 🎉 Badges
-<img align="center" alt="aws_restart" src="https://images.credly.com/size/680x680/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" width="70" height="70"/>
-<img align="center" alt="CCP" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="60" height="60"/>
-<img align="center" alt="Scrum" src="https://images.credly.com/size/680x680/images/7beda5e3-c889-48e7-afd3-07cbcbec18ed/blob" width="70" height="70"/>
+<div style="display:inline_block"><br/>
+    <img align="center" alt="aws_restart" src="https://images.credly.com/size/680x680/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" width="70" height="70"/>
+    <img align="center" alt="CCP" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="60" height="60"/>
+    <img align="center" alt="Scrum" src="https://images.credly.com/size/680x680/images/7beda5e3-c889-48e7-afd3-07cbcbec18ed/blob" width="70" height="70"/>
+</div><br/>
 
 ### 💼 Experiência Profissional
 ☑️ Analista de TI - 2019<br>
