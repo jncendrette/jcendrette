@@ -1,8 +1,6 @@
 # José Cendrette
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcendrette/)
 
----
-
 Apaixonado por tecnologias inovadoras com mais de 10 anos de experiência em infraestrutura, suporte a redes, Sysadmin Linux em empresas públicas, privadas e consultorias de TI. 
 
 Minha busca é constante em conhecimento técnico e comportamental para oferecer soluções em migração de infraestruturas e aplicações para cloud, utilizando-se das melhores práticas em arquiteturas sustentáveis e econômicas para garantir escalabilidade, segurança e eficiência nos negócios.
@@ -27,12 +25,13 @@ Minha busca é constante em conhecimento técnico e comportamental para oferecer
 ❄️ Cloud Engineer 2027 <br>
 🔥 DevOps Analyst 2024<br>
 
-
+----
 ### 📚 Cursos
 Santander Coders 2024 | Trilha DevOps [Ada Tech](https://ada.tech/)<br>
 Programa AWS re/Start | [Escola da Nuvem](https://escoladanuvem.org/)<br>
 Oracle Cloud Infrastructure Foundations [Oracle University](https://mylearn.oracle.com/ou/home)
 
+----
 ### 🎉 Badges
 <div style="display:inline_block"><br/>
     <img align="center" alt="aws_restart" src="https://images.credly.com/size/680x680/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" width="70" height="70"/>
@@ -40,11 +39,13 @@ Oracle Cloud Infrastructure Foundations [Oracle University](https://mylearn.orac
     <img align="center" alt="Scrum" src="https://images.credly.com/size/680x680/images/7beda5e3-c889-48e7-afd3-07cbcbec18ed/blob" width="70" height="70"/>
 </div><br/>
 
+----
 ### 💼 Experiência Profissional
 ☑️ Analista de TI - 2019<br>
 ☑️ Analista de Suporte - 2016<br>
 <img align="center" alt="checklist" src="https://img.icons8.com/?size=18&id=63675&format=png"/> Técnico de Suporte - 2007
 
+----
 ### 🎓 Formação Acadêmica
 **Graduação:** - Sistemas de Informação<br>
 **Faculdade:** UMC - Universidade Mogi das Cruzes<br>
