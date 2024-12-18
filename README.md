@@ -1,47 +1,42 @@
-### 👋 Olá! Eu sou José Cendrette, profissional de tecnologia!
+### José Cendrette
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcendrette/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@jonny_41747/)
+[![Medium](https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jcendrette)
+---
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jncendrette&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=jncendrette&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=jncendrette&show_icons=true" />
-</picture>
+Apaixonado por tecnologias inovadoras com mais de 10 anos de experiência em infraestrutura, suporte a redes, Sysadmin Linux em empresas públicas, privadas e consultorias de TI. 
 
+Minha busca é constante em conhecimento técnico e comportamental para oferecer soluções em migração de infraestruturas e aplicações ambientes em cloud, utilizando das melhores práticas em arquiteturas sustentáveis e econômicas para garantir escalabilidade, segurança e eficiência nos negócios.
+
+----
 
 <div style="display:inline_block"><br/>
-    <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-    <img align="center" alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
     <img align="center" alt="terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/>
-     <img align="center" alt="kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-    <img align="center" alt="aws" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-    <img align="center" alt="azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+    <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
     <img align="center" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
     <img align="center" alt="shell" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-    
+    <img align="center" alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 </div><br/>
 
-### 🚀 Objetivo Profissional
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jcendrette/)<br>
-Compartilho abaixo meu objetivo profissional seguindo um Roadmap de Carreira para conquistar e continuar crescendo em tecnologias inovadoras.
+----
+
+### 🚀 Metas Profissionais
 
 🎯 IA Engineer 🚀<br>
-❄️ Platform Engineer 2030<br>
-💥 DevOps Engineer 2027 <br>
+❄️ Cloud Engineer 2027 <br>
 🔥 DevOps Analyst 2024<br>
 
-
-### 🎉 Certificações
-[AWS Certified Cloud Practitioner](https://www.credly.com/badges/b0948e79-e1b1-4602-9aeb-a957b1035657)
 
 ### 📚 Cursos
 Santander Coders 2024 | Trilha DevOps [Ada Tech](https://ada.tech/)<br>
 Programa AWS re/Start | [Escola da Nuvem](https://escoladanuvem.org/)<br>
 Oracle Cloud Infrastructure Foundations [Oracle University](https://mylearn.oracle.com/ou/home)
+
+### 🎉 Badges
+<img align="center" alt="aws_restart" src="https://images.credly.com/size/680x680/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" width="70" height="70"/>
+<img align="center" alt="CCP" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="60" height="60"/>
+<img align="center" alt="Scrum" src="https://images.credly.com/size/680x680/images/7beda5e3-c889-48e7-afd3-07cbcbec18ed/blob" width="70" height="70"/>
 
 ### 💼 Experiência Profissional
 ☑️ Analista de TI - 2019<br>
@@ -49,8 +44,9 @@ Oracle Cloud Infrastructure Foundations [Oracle University](https://mylearn.orac
 <img align="center" alt="checklist" src="https://img.icons8.com/?size=18&id=63675&format=png"/> Técnico de Suporte - 2007
 
 ### 🎓 Formação Acadêmica
-Bacharel - Sistemas de Informação 
-UMC - Universidade Mogi das Cruzes - 02/2004 até 11/2007
+**Graduação:** - Sistemas de Informação<br>
+**Faculdade:** UMC - Universidade Mogi das Cruzes<br>
+**Conclusão:** 2007
 
 
 
