@@ -11,15 +11,10 @@ Minha busca é constante em conhecimento técnico e comportamental para oferecer
     <img align="center" alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
     <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
     <img align="center" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+    <img align="center" alt="shell" src="https://img.shields.io/badge/powerbi-FF9900?style=for-the-badge&logo=powerbi&logoColor=white"/>
     <img align="center" alt="shell" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
     
 </div><br/>
-
-### 🚀 Objetivos
-
-🎯 IA Engineer 🚀<br>
-❄️ Cloud Engineer 2027 <br>
-🔥 DevOps Analyst 2024<br>
 
 ----
 ### 🎉 Certificações
@@ -31,13 +26,19 @@ Minha busca é constante em conhecimento técnico e comportamental para oferecer
 
 ----
 ### 📚 Cursos
-AWS Solutions Architect Associate - [ExamePro](https://www.exampro.co/aws-exam-solutions-architect-associate) | Estudando...<br>
-Santander Coders 2024 | Trilha DevOps [Ada Tech](https://ada.tech/)<br>
-Programa AWS re/Start | [Escola da Nuvem](https://escoladanuvem.org/)<br>
-Oracle Cloud Infrastructure Foundations [Oracle University](https://mylearn.oracle.com/ou/home)
+
+Fundamentos Python e Data Science - [DSA](https://www.datascienceacademy.com.br/)<br>
+Santander Coders 2024 - Trilha DevOps - [Ada Tech](https://ada.tech/)<br>
+Programa AWS re/Start - [Escola da Nuvem](https://escoladanuvem.org/)<br>
+Oracle Cloud Infrastructure Foundations - [Oracle University](https://mylearn.oracle.com/ou/home)<br>
+Língua Inglesa - [Fluencypass](https://fluencypass.com/)<br>
+Fundamentos de Engenharia de Dados - [DSA](https://www.datascienceacademy.com.br/)<br>
+Power BI Experience - [Xperiun](https://xperiun.com/)<br>
+Formação em Planejamento Financeiro - [GFAI](https://academiagfai.azurewebsites.net/apf-matriculas-2023/)
 
 ----
 ### 💼 Experiência Profissional
+☑️ Analista de Dados - 2020<br>
 ☑️ Analista de TI - 2019<br>
 ☑️ Analista de Suporte - 2016<br>
 <img align="center" alt="checklist" src="https://img.icons8.com/?size=18&id=63675&format=png"/> Técnico de Suporte - 2007
